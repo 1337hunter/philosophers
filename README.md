@@ -1,4 +1,4 @@
-# Philosophers - Interesting task with multithreading
+# Philosophers - interesting task with multithreading
 # I’ve never thought philosophy would be so deadly.
 
 After make run:
