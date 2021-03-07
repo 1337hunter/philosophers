@@ -1,7 +1,7 @@
 # Philosophers - interesting task with multithreading
 
 After make run:
-./philo_<one|two|three>/philo_<one|two|three> <number_of_philosophers> <time_to_die> <time_to_eat> <time_to_sleep> [number_of_times_each_philosopher_must_eat]
+./philo_one/philo_one (<philo_one | philo_one>)  <time_to_die> <time_to_eat> <time_to_sleep> [number_of_times_each_philosopher_must_eat]
 
 - number_of_philosophers: is the number of philosophers and also the number
 of forks
